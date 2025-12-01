@@ -1,0 +1,5 @@
+Cola,50,10,5.0
+Parafuso,480,50,0.5
+Dobradiça,100,20,2.0
+Madeira,95,15,15.0
+Tinta,49,10,25.0

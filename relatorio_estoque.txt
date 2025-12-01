@@ -1,0 +1,8 @@
+=== RELATÓRIO DE ESTOQUE SMARTWOOD ===
+Gerado automaticamente pelo sistema.
+
+Item: Cola | Qtd: 50 [OK]
+Item: Parafuso | Qtd: 480 [OK]
+Item: Dobradiça | Qtd: 100 [OK]
+Item: Madeira | Qtd: 95 [OK]
+Item: Tinta | Qtd: 49 [OK]
